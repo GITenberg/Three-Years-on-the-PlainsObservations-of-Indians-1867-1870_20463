@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '9312'
     url: http://www.gutenberg.org/2009/agents/9312
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20463#Three-Years-on-the-PlainsObservations-of-Indians-1867-1870
 gutenberg_bookshelf: Native America
 gutenberg_issued: '2007-01-28'
 gutenberg_type: Text
