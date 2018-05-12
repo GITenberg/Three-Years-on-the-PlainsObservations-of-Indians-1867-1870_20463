@@ -1,0 +1,29 @@
+_repo: Three-Years-on-the-PlainsObservations-of-Indians-1867-1870_20463
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tuttle, Edmund B. (Edmund Bostwick)
+    birthdate: 1815
+    deathdate: 1881
+    gutenberg_agent_id: '9312'
+    url: http://www.gutenberg.org/2009/agents/9312
+description: ''
+gutenberg_bookshelf: Native America
+gutenberg_issued: '2007-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20463'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Great Plains'
+- !lcc 'E011'
+- !lcsh 'Indians of North America'
+- !lcsh 'Frontier and pioneer life -- West (U.S.)'
+title: 'Three Years on the Plains: Observations of Indians, 1867-1870'
+url: http://www.gutenberg.org/ebooks/20463
